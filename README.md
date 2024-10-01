@@ -7,7 +7,9 @@ It uses the Alpha Vantage API for stock data and the News API for news articles.
 
 ## Overview
 Stock Price Monitoring: The script automatically fetches the stock data for AAPL (Apple) by default. It compares the closing price of the most recent two days.
+
 Stock Change Calculation: If the stock price changes by 5% or more (up or down), the script fetches the top 3 news articles from the News API related to the stock symbol.
+
 Email Alerts: If the change is significant, an email with the news headlines is sent to the specified email (both sender and receiver can be the same email).
 
 ## Features
