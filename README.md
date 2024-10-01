@@ -27,7 +27,7 @@ Email Alerts: If the change is significant, an email with the news headlines is 
   - `smtplib`
 
 ## Set up environment variables:
-- Create a .env file in the project root directory to store your API keys and email credentials:
+**Create a .env file in the project root directory to store your API keys and email credentials:
 - STOCK_API_KEY=your_alpha_vantage_api_key
 - NEWS_API=your_news_api_key
 - MAIL_PASS=your_gmail_password
