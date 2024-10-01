@@ -34,7 +34,7 @@ Email Alerts: If the change is significant, an email with the news headlines is 
 
 ## Important Notes
 - API Rate Limits: The Alpha Vantage API has a limit of 25 API requests per day
-- 
+- The News API may also have rate limits
 
 
 
